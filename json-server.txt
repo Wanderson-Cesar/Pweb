@@ -1,0 +1,2 @@
+comando para rodar servidor json-server
+json-server --whatch db.json
